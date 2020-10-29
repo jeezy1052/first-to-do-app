@@ -1,7 +1,7 @@
 // Selectors
 document.querySelector('.submit-Btn').addEventListener('submit', getTask);
 
-
+delTaskList()
 
 // Event Handlers
 function getTask(e) {
